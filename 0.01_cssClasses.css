@@ -1,11 +1,11 @@
-.customDiv, .banana {
+.customDiv {
 	margin: 20px;
 	font-size: 24px;
 	padding: 10px;
 	width: 50%;
 }
 
-.banana {
+.customDiv-2 {
 	border: 5px solid #000;
 }
 
