@@ -1,0 +1,10 @@
+.customDiv {
+	padding: 50px 25px 100px 35px;
+}
+
+.customW {
+	margin-right: 80%;
+	border: 2px solid;
+	float: left; //Float raises the element and shifts it to a particular side.
+	display: inline; //Inline allows other elements to be on the same line.
+}
